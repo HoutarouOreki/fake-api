@@ -239,21 +239,6 @@
         "name": "web",
         "display_name": "Web"
       }
-    },
-    "previous": {
-      "id": 4239,
-      "version": "2018.716.0",
-      "display_version": "2018.716.0",
-      "users": 0,
-      "is_featured": false,
-      "created_at": "2018-07-16T19:52:17+00:00",
-      "disqus_id": "build_b2018.716web",
-      "disqus_title": "Release Notes for b2018.716.0 (Web)",
-      "update_stream": {
-        "id": 8,
-        "name": "web",
-        "display_name": "Web"
-      }
     }
   }
 }

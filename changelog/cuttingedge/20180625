@@ -50,21 +50,6 @@
 				"name": "cuttingedge",
 				"display_name": "Cutting Edge"
 			}
-		},
-		"previous": {
-			"id": 4204,
-			"version": "20180622.1",
-			"display_version": "20180622.1",
-			"users": 1,
-			"is_featured": false,
-			"created_at": "2018-06-22T10:51:38+00:00",
-			"disqus_id": "build_b20180622cuttingedge",
-			"disqus_title": "Release Notes for b20180622.1 (Cutting Edge)",
-			"update_stream": {
-				"id": 3,
-				"name": "cuttingedge",
-				"display_name": "Cutting Edge"
-			}
 		}
 	}
 }
