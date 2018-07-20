@@ -1,0 +1,56 @@
+{
+  "id": 4209,
+  "version": "20180626",
+  "display_version": "20180626",
+  "users": 257,
+  "is_featured": false,
+  "created_at": "2018-06-26T04:36:10+00:00",
+  "disqus_id": "build_b20180626beta40",
+  "disqus_title": "Release Notes for b20180626 (Beta)",
+  "update_stream": {
+    "id": 6,
+    "name": "beta40",
+    "display_name": "Beta"
+  },
+  "changelog_entries": [
+    {
+      "id": null,
+      "repository": null,
+      "github_pull_request_id": null,
+      "github_url": null,
+      "url": "https://github.com/ppy/osu/pull/2873",
+      "type": "fix",
+      "category": "Gameplay",
+      "title": "Remove taiko barline multiplier when bpm is under 75",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-06-25T07:56:26+00:00",
+      "github_user": {
+        "id": null,
+        "display_name": "peppy",
+        "github_url": null,
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    }
+  ],
+  "versions": {
+    "previous": {
+      "id": 4205,
+      "version": "20180622.2",
+      "display_version": "20180622.2",
+      "users": 1,
+      "is_featured": false,
+      "created_at": "2018-06-22T10:56:35+00:00",
+      "disqus_id": "build_b20180622beta40",
+      "disqus_title": "Release Notes for b20180622.2 (Beta)",
+      "update_stream": {
+        "id": 6,
+        "name": "beta40",
+        "display_name": "Beta"
+      }
+    }
+  }
+}
+    

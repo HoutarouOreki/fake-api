@@ -1,0 +1,260 @@
+{
+  "id": 4240,
+  "version": "2018.718.0",
+  "display_version": "2018.718.0",
+  "users": 0,
+  "is_featured": false,
+  "created_at": "2018-07-18T08:17:05+00:00",
+  "disqus_id": "build_b2018.718web",
+  "disqus_title": "Release Notes for b2018.718.0 (Web)",
+  "update_stream": {
+    "id": 8,
+    "name": "web",
+    "display_name": "Web"
+  },
+  "changelog_entries": [
+    {
+      "id": 555,
+      "repository": "ppy/osu-web",
+      "github_pull_request_id": 3489,
+      "github_url": "https://github.com/ppy/osu-web/pull/3489",
+      "url": null,
+      "type": "fix",
+      "category": "Modding",
+      "title": "More descriptive beatmap qualification event text",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-17T04:42:49+00:00",
+      "github_user": {
+        "id": 2,
+        "display_name": "nanaya",
+        "github_url": "https://github.com/nanaya",
+        "osu_username": "nanaya",
+        "user_id": 2387883,
+        "user_url": "https://osu.ppy.sh/users/2387883"
+      }
+    },
+    {
+      "id": 556,
+      "repository": "ppy/osu-wiki",
+      "github_pull_request_id": 1527,
+      "github_url": "https://github.com/ppy/osu-wiki/pull/1527",
+      "url": null,
+      "type": "fix",
+      "category": "Wiki",
+      "title": "Add Project Loved: Week of July 15th",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-17T06:00:47+00:00",
+      "github_user": {
+        "id": 24,
+        "display_name": "cl8n",
+        "github_url": "https://github.com/cl8n",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 558,
+      "repository": "ppy/osu-web",
+      "github_pull_request_id": 3494,
+      "github_url": "https://github.com/ppy/osu-web/pull/3494",
+      "url": null,
+      "type": "fix",
+      "category": "Beatmap Listing",
+      "title": "Change beatmap page difficulty sort order",
+      "message_html": "<p>Difficulties now sorted according to; converts, key mode (for mania), star difficulty; with the converts going at the end.</p>\n",
+      "major": false,
+      "created_at": "2018-07-17T06:14:25+00:00",
+      "github_user": {
+        "id": 1,
+        "display_name": "notbakaneko",
+        "github_url": "https://github.com/notbakaneko",
+        "osu_username": "notbakaneko",
+        "user_id": 10751776,
+        "user_url": "https://osu.ppy.sh/users/10751776"
+      }
+    },
+    {
+      "id": 563,
+      "repository": "ppy/osu-wiki",
+      "github_pull_request_id": 1530,
+      "github_url": "https://github.com/ppy/osu-wiki/pull/1530",
+      "url": null,
+      "type": "fix",
+      "category": "Wiki",
+      "title": "antiPLUR and Nakanojojo Featured Artist newspost",
+      "message_html": "<p>Pretty straightforward, but vet the wording and note that this is due for release tomorrow, since it'd clip with today's recap newspost otherwise.</p>\n",
+      "major": false,
+      "created_at": "2018-07-17T09:15:39+00:00",
+      "github_user": {
+        "id": 13,
+        "display_name": "Ephemeralis",
+        "github_url": "https://github.com/Ephemeralis",
+        "osu_username": "Ephemeralis",
+        "user_id": 10948742,
+        "user_url": "https://osu.ppy.sh/users/10948742"
+      }
+    },
+    {
+      "id": 564,
+      "repository": "ppy/osu-wiki",
+      "github_pull_request_id": 1534,
+      "github_url": "https://github.com/ppy/osu-wiki/pull/1534",
+      "url": null,
+      "type": "fix",
+      "category": "Wiki",
+      "title": "Update antiPLUR/Nakanojojo FA announcement",
+      "message_html": "<p>Includes three links per artists to their respective listings.</p>\n",
+      "major": false,
+      "created_at": "2018-07-17T09:25:25+00:00",
+      "github_user": {
+        "id": 13,
+        "display_name": "Ephemeralis",
+        "github_url": "https://github.com/Ephemeralis",
+        "osu_username": "Ephemeralis",
+        "user_id": 10948742,
+        "user_url": "https://osu.ppy.sh/users/10948742"
+      }
+    },
+    {
+      "id": 566,
+      "repository": "ppy/osu-wiki",
+      "github_pull_request_id": 1535,
+      "github_url": "https://github.com/ppy/osu-wiki/pull/1535",
+      "url": null,
+      "type": "fix",
+      "category": "Wiki",
+      "title": "[PL] BanchoBot",
+      "message_html": "<p>Translate the BanchoBot article into Polish.</p>\n",
+      "major": false,
+      "created_at": "2018-07-17T10:44:14+00:00",
+      "github_user": {
+        "id": 37,
+        "display_name": "TPGPL",
+        "github_url": "https://github.com/TPGPL",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 567,
+      "repository": "ppy/osu-wiki",
+      "github_pull_request_id": 1528,
+      "github_url": "https://github.com/ppy/osu-wiki/pull/1528",
+      "url": null,
+      "type": "fix",
+      "category": "Wiki",
+      "title": "[LMS Shift] End of Tournament & Conclusion",
+      "message_html": "<h3>Description</h3>\n<ul>\n<li>End of Taiko Last Man Standing: Shift Cup</li>\n<li>Podium and Grand Finals results are added</li>\n</ul>\n",
+      "major": false,
+      "created_at": "2018-07-17T18:10:54+00:00",
+      "github_user": {
+        "id": 31,
+        "display_name": "fajar13k",
+        "github_url": "https://github.com/fajar13k",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 568,
+      "repository": "ppy/osu-web",
+      "github_pull_request_id": 3495,
+      "github_url": "https://github.com/ppy/osu-web/pull/3495",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Add caching fallback for GitHub pages",
+      "message_html": "<p>Fixes site becoming inaccessible shortly after github has a downtime.</p>\n",
+      "major": false,
+      "created_at": "2018-07-18T01:32:49+00:00",
+      "github_user": {
+        "id": 2,
+        "display_name": "nanaya",
+        "github_url": "https://github.com/nanaya",
+        "osu_username": "nanaya",
+        "user_id": 2387883,
+        "user_url": "https://osu.ppy.sh/users/2387883"
+      }
+    },
+    {
+      "id": 570,
+      "repository": "ppy/osu-web",
+      "github_pull_request_id": 3463,
+      "github_url": "https://github.com/ppy/osu-web/pull/3463",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Update to latest Twitch API",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-18T06:45:57+00:00",
+      "github_user": {
+        "id": 2,
+        "display_name": "nanaya",
+        "github_url": "https://github.com/nanaya",
+        "osu_username": "nanaya",
+        "user_id": 2387883,
+        "user_url": "https://osu.ppy.sh/users/2387883"
+      }
+    },
+    {
+      "id": 571,
+      "repository": "ppy/osu-web",
+      "github_pull_request_id": 3363,
+      "github_url": "https://github.com/ppy/osu-web/pull/3363",
+      "url": null,
+      "type": "fix",
+      "category": "Profile",
+      "title": "Retrieve user best performance scores from elasticsearch",
+      "message_html": "<p>Improves performance of profile loading and opens the door to allowing further score filtering in the future.</p>\n",
+      "major": false,
+      "created_at": "2018-07-18T08:15:40+00:00",
+      "github_user": {
+        "id": 1,
+        "display_name": "notbakaneko",
+        "github_url": "https://github.com/notbakaneko",
+        "osu_username": "notbakaneko",
+        "user_id": 10751776,
+        "user_url": "https://osu.ppy.sh/users/10751776"
+      }
+    }
+  ],
+  "versions": {
+    "next": {
+      "id": 4241,
+      "version": "2018.720.0",
+      "display_version": "2018.720.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-20T05:56:47+00:00",
+      "disqus_id": "build_b2018.720web",
+      "disqus_title": "Release Notes for b2018.720.0 (Web)",
+      "update_stream": {
+        "id": 8,
+        "name": "web",
+        "display_name": "Web"
+      }
+    },
+    "previous": {
+      "id": 4239,
+      "version": "2018.716.0",
+      "display_version": "2018.716.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-16T19:52:17+00:00",
+      "disqus_id": "build_b2018.716web",
+      "disqus_title": "Release Notes for b2018.716.0 (Web)",
+      "update_stream": {
+        "id": 8,
+        "name": "web",
+        "display_name": "Web"
+      }
+    }
+  }
+}
+    

@@ -1,0 +1,71 @@
+{
+	"id": 4207,
+	"version": "20180625",
+	"display_version": "20180625",
+	"users": 1,
+	"is_featured": false,
+	"created_at": "2018-06-25T07:59:39+00:00",
+	"disqus_id": "build_b20180625cuttingedge",
+	"disqus_title": "Release Notes for b20180625 (Cutting Edge)",
+	"update_stream": {
+		"id": 3,
+		"name": "cuttingedge",
+		"display_name": "Cutting Edge"
+	},
+	"changelog_entries": [
+		{
+			"id": null,
+			"repository": null,
+			"github_pull_request_id": null,
+			"github_url": null,
+			"url": "https://github.com/ppy/osu/pull/2873",
+			"type": "fix",
+			"category": "Gameplay",
+			"title": "Remove taiko barline multiplier when bpm is under 75",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-25T07:56:26+00:00",
+			"github_user": {
+				"id": null,
+				"display_name": "peppy",
+				"github_url": null,
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		}
+	],
+	"versions": {
+		"next": {
+			"id": 4212,
+			"version": "20180627",
+			"display_version": "20180627",
+			"users": 389,
+			"is_featured": false,
+			"created_at": "2018-06-26T20:01:53+00:00",
+			"disqus_id": "build_b20180627cuttingedge",
+			"disqus_title": "Release Notes for b20180627 (Cutting Edge)",
+			"update_stream": {
+				"id": 3,
+				"name": "cuttingedge",
+				"display_name": "Cutting Edge"
+			}
+		},
+		"previous": {
+			"id": 4204,
+			"version": "20180622.1",
+			"display_version": "20180622.1",
+			"users": 1,
+			"is_featured": false,
+			"created_at": "2018-06-22T10:51:38+00:00",
+			"disqus_id": "build_b20180622cuttingedge",
+			"disqus_title": "Release Notes for b20180622.1 (Cutting Edge)",
+			"update_stream": {
+				"id": 3,
+				"name": "cuttingedge",
+				"display_name": "Cutting Edge"
+			}
+		}
+	}
+}
+    
