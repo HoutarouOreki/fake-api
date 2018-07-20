@@ -1,0 +1,224 @@
+{
+  "id": 4236,
+  "version": "2018.713.1",
+  "display_version": "2018.713.1",
+  "users": 0,
+  "is_featured": false,
+  "created_at": "2018-07-13T17:38:15+00:00",
+  "disqus_id": "build_b2018.713lazer",
+  "disqus_title": "Release Notes for b2018.713.1 (Lazer)",
+  "update_stream": {
+    "id": 7,
+    "name": "lazer",
+    "display_name": "Lazer"
+  },
+  "changelog_entries": [
+    {
+      "id": 525,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2993,
+      "github_url": "https://github.com/ppy/osu/pull/2993",
+      "url": null,
+      "type": "fix",
+      "category": "Import",
+      "title": "Fix import failure of beatmap sets containing duplicate beatmap difficulties",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-13T09:09:17+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 526,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2987,
+      "github_url": "https://github.com/ppy/osu/pull/2987",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix pixel gap in user profile when scrolling",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-13T09:27:31+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 527,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3026,
+      "github_url": "https://github.com/ppy/osu/pull/3026",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Improve visuals of difficulty icons",
+      "message_html": "<p>Before:</p>\n<p><img src=\"https://user-images.githubusercontent.com/191335/42680584-605c2c18-86c0-11e8-9ccb-f4bd7a89b919.png\" alt=\"image\" /></p>\n<p>After:</p>\n<p><img src=\"https://user-images.githubusercontent.com/191335/42681056-9b5e64ce-86c1-11e8-854c-23657e64a92f.png\" alt=\"image\" /></p>\n",
+      "major": false,
+      "created_at": "2018-07-13T09:41:22+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 528,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2903,
+      "github_url": "https://github.com/ppy/osu/pull/2903",
+      "url": null,
+      "type": "fix",
+      "category": "Gameplay",
+      "title": "Implement storyboard sample playback",
+      "message_html": "<p>Implements storyboard samples for keysounded maps. Keysounds are not completely implemented yet - that will come with a future implementation.</p>\n",
+      "major": false,
+      "created_at": "2018-07-13T09:48:06+00:00",
+      "github_user": {
+        "id": 5,
+        "display_name": "smoogipoo",
+        "github_url": "https://github.com/smoogipoo",
+        "osu_username": "smoogipoo",
+        "user_id": 1040328,
+        "user_url": "https://osu.ppy.sh/users/1040328"
+      }
+    },
+    {
+      "id": 529,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3027,
+      "github_url": "https://github.com/ppy/osu/pull/3027",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Remove migration log output",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-13T10:40:08+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 530,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2975,
+      "github_url": "https://github.com/ppy/osu/pull/2975",
+      "url": null,
+      "type": "fix",
+      "category": "Input",
+      "title": "Change osu!standard default key bindings",
+      "message_html": "<p>Defaults for new installs are now A/S instead of Z/X. These keys are better supported as &quot;game&quot; keys on some keyboards (being part of WASD) and also become keyboard layout agnostic (for most common layouts).</p>\n",
+      "major": false,
+      "created_at": "2018-07-13T11:33:24+00:00",
+      "github_user": {
+        "id": 67,
+        "display_name": "thatprogrammer1",
+        "github_url": "https://github.com/thatprogrammer1",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 532,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3029,
+      "github_url": "https://github.com/ppy/osu/pull/3029",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix informational overlays not hiding when user toggles other overlay views",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-13T11:56:02+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 534,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3030,
+      "github_url": "https://github.com/ppy/osu/pull/3030",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Make focused overlays block \"select\" and keys",
+      "message_html": "<p>Fixes keys and actions transmitting behind the music controller and other overlays.</p>\n",
+      "major": false,
+      "created_at": "2018-07-13T12:20:44+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 535,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2990,
+      "github_url": "https://github.com/ppy/osu/pull/2990",
+      "url": null,
+      "type": "fix",
+      "category": "Settings",
+      "title": "Make arrow keys change settings at the lowest possible intervals",
+      "message_html": "<p>For maximum precision.</p>\n",
+      "major": false,
+      "created_at": "2018-07-13T15:38:49+00:00",
+      "github_user": {
+        "id": 16,
+        "display_name": "HoutarouOreki",
+        "github_url": "https://github.com/HoutarouOreki",
+        "osu_username": "HoutarouOreki",
+        "user_id": 2426158,
+        "user_url": "https://osu.ppy.sh/users/2426158"
+      }
+    }
+  ],
+  "versions": {
+    "previous": {
+      "id": 4233,
+      "version": "2018.712.0",
+      "display_version": "2018.712.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-12T15:12:39+00:00",
+      "disqus_id": "build_b2018.712lazer",
+      "disqus_title": "Release Notes for b2018.712.0 (Lazer)",
+      "update_stream": {
+        "id": 7,
+        "name": "lazer",
+        "display_name": "Lazer"
+      }
+    }
+  }
+}
+    

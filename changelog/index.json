@@ -1,0 +1,3386 @@
+﻿[
+  {
+    "id": 4240,
+    "version": "2018.718.0",
+    "display_version": "2018.718.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-18T08:17:05+00:00",
+    "disqus_id": "build_b2018.718web",
+    "disqus_title": "Release Notes for b2018.718.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 555,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3489,
+        "github_url": "https://github.com/ppy/osu-web/pull/3489",
+        "url": null,
+        "type": "fix",
+        "category": "Modding",
+        "title": "More descriptive beatmap qualification event text",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-17T04:42:49+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 556,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1527,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1527",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Add Project Loved: Week of July 15th",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-17T06:00:47+00:00",
+        "github_user": {
+          "id": 24,
+          "display_name": "cl8n",
+          "github_url": "https://github.com/cl8n",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 558,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3494,
+        "github_url": "https://github.com/ppy/osu-web/pull/3494",
+        "url": null,
+        "type": "fix",
+        "category": "Beatmap Listing",
+        "title": "Change beatmap page difficulty sort order",
+        "message_html": "<p>Difficulties now sorted according to; converts, key mode (for mania), star difficulty; with the converts going at the end.</p>\n",
+        "major": false,
+        "created_at": "2018-07-17T06:14:25+00:00",
+        "github_user": {
+          "id": 1,
+          "display_name": "notbakaneko",
+          "github_url": "https://github.com/notbakaneko",
+          "osu_username": "notbakaneko",
+          "user_id": 10751776,
+          "user_url": "https://osu.ppy.sh/users/10751776"
+        }
+      },
+      {
+        "id": 563,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1530,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1530",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "antiPLUR and Nakanojojo Featured Artist newspost",
+        "message_html": "<p>Pretty straightforward, but vet the wording and note that this is due for release tomorrow, since it'd clip with today's recap newspost otherwise.</p>\n",
+        "major": false,
+        "created_at": "2018-07-17T09:15:39+00:00",
+        "github_user": {
+          "id": 13,
+          "display_name": "Ephemeralis",
+          "github_url": "https://github.com/Ephemeralis",
+          "osu_username": "Ephemeralis",
+          "user_id": 10948742,
+          "user_url": "https://osu.ppy.sh/users/10948742"
+        }
+      },
+      {
+        "id": 564,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1534,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1534",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Update antiPLUR/Nakanojojo FA announcement",
+        "message_html": "<p>Includes three links per artists to their respective listings.</p>\n",
+        "major": false,
+        "created_at": "2018-07-17T09:25:25+00:00",
+        "github_user": {
+          "id": 13,
+          "display_name": "Ephemeralis",
+          "github_url": "https://github.com/Ephemeralis",
+          "osu_username": "Ephemeralis",
+          "user_id": 10948742,
+          "user_url": "https://osu.ppy.sh/users/10948742"
+        }
+      },
+      {
+        "id": 566,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1535,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1535",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[PL] BanchoBot",
+        "message_html": "<p>Translate the BanchoBot article into Polish.</p>\n",
+        "major": false,
+        "created_at": "2018-07-17T10:44:14+00:00",
+        "github_user": {
+          "id": 37,
+          "display_name": "TPGPL",
+          "github_url": "https://github.com/TPGPL",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 567,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1528,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1528",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[LMS Shift] End of Tournament & Conclusion",
+        "message_html": "<h3>Description</h3>\n<ul>\n<li>End of Taiko Last Man Standing: Shift Cup</li>\n<li>Podium and Grand Finals results are added</li>\n</ul>\n",
+        "major": false,
+        "created_at": "2018-07-17T18:10:54+00:00",
+        "github_user": {
+          "id": 31,
+          "display_name": "fajar13k",
+          "github_url": "https://github.com/fajar13k",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 568,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3495,
+        "github_url": "https://github.com/ppy/osu-web/pull/3495",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Add caching fallback for GitHub pages",
+        "message_html": "<p>Fixes site becoming inaccessible shortly after github has a downtime.</p>\n",
+        "major": false,
+        "created_at": "2018-07-18T01:32:49+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 570,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3463,
+        "github_url": "https://github.com/ppy/osu-web/pull/3463",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Update to latest Twitch API",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-18T06:45:57+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 571,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3363,
+        "github_url": "https://github.com/ppy/osu-web/pull/3363",
+        "url": null,
+        "type": "fix",
+        "category": "Profile",
+        "title": "Retrieve user best performance scores from elasticsearch",
+        "message_html": "<p>Improves performance of profile loading and opens the door to allowing further score filtering in the future.</p>\n",
+        "major": false,
+        "created_at": "2018-07-18T08:15:40+00:00",
+        "github_user": {
+          "id": 1,
+          "display_name": "notbakaneko",
+          "github_url": "https://github.com/notbakaneko",
+          "osu_username": "notbakaneko",
+          "user_id": 10751776,
+          "user_url": "https://osu.ppy.sh/users/10751776"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4239,
+    "version": "2018.716.0",
+    "display_version": "2018.716.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-16T19:52:17+00:00",
+    "disqus_id": "build_b2018.716web",
+    "disqus_title": "Release Notes for b2018.716.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 531,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3487,
+        "github_url": "https://github.com/ppy/osu-web/pull/3487",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Add link to post editor profile",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T11:33:35+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 533,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3485,
+        "github_url": "https://github.com/ppy/osu-web/pull/3485",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Changelog auto build adjustments",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T12:09:20+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 536,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1522,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1522",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[EN/ZH] Tournament-CJB: Redate Drawings",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T15:39:54+00:00",
+        "github_user": {
+          "id": 42,
+          "display_name": "kj415j45",
+          "github_url": "https://github.com/kj415j45",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 538,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1523,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1523",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Upload CWC2018 SF \u0026 FW1 joint recap",
+        "message_html": "\u003cp\u003eKinda long since it combines both weeks but it's as trimmed as I could realistically make it.\u003c/p\u003e\n\u003cp\u003eNewline markdown after video links doesn't seem to do anything for me, so I placed videos immediately before the relevant heading instead.\u003c/p\u003e\n\u003cp\u003eEst. publication - 2018-07-13, 2100 UTC+0\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-14T17:05:58+00:00",
+        "github_user": {
+          "id": 41,
+          "display_name": "JBHyperion",
+          "github_url": "https://github.com/JBHyperion",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 540,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1518,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1518",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[THOM CUP] End of the tournament update",
+        "message_html": "\u003cul\u003e\n\u003cli\u003eAdded prizes and podium.\u003c/li\u003e\n\u003cli\u003eAdded finals and grand finals results\u003c/li\u003e\n\u003cli\u003eAdded grandfinals mappool\u003c/li\u003e\n\u003cli\u003eChanged /b/ to /beatmaps/ on links\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "major": false,
+        "created_at": "2018-07-15T19:07:30+00:00",
+        "github_user": {
+          "id": 45,
+          "display_name": "WalterToro",
+          "github_url": "https://github.com/WalterToro",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 541,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1526,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1526",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Upload CWC2018 Grand Final Recap",
+        "message_html": "\u003cp\u003eUploading recap on time this year ✔️\u003c/p\u003e\n\u003cp\u003eDecided to only include the podium image and not bracket since it was getting too long, though I can add it if necessary.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-16T09:04:02+00:00",
+        "github_user": {
+          "id": 41,
+          "display_name": "JBHyperion",
+          "github_url": "https://github.com/JBHyperion",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 542,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1529,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1529",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Add missing word in CWC Grand Finals Recap",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-16T10:50:18+00:00",
+        "github_user": {
+          "id": 41,
+          "display_name": "JBHyperion",
+          "github_url": "https://github.com/JBHyperion",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 546,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1531,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1531",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Fix a language in the QAT article",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-16T15:37:25+00:00",
+        "github_user": {
+          "id": 65,
+          "display_name": "Xinnoh",
+          "github_url": "https://github.com/Xinnoh",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 550,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3492,
+        "github_url": "https://github.com/ppy/osu-web/pull/3492",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Force index when removing beatmapset high scores",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-16T19:50:39+00:00",
+        "github_user": {
+          "id": 1,
+          "display_name": "notbakaneko",
+          "github_url": "https://github.com/notbakaneko",
+          "osu_username": "notbakaneko",
+          "user_id": 10751776,
+          "user_url": "https://osu.ppy.sh/users/10751776"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4236,
+    "version": "2018.713.1",
+    "display_version": "2018.713.1",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-13T17:38:15+00:00",
+    "disqus_id": "build_b2018.713lazer",
+    "disqus_title": "Release Notes for b2018.713.1 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 525,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2993,
+        "github_url": "https://github.com/ppy/osu/pull/2993",
+        "url": null,
+        "type": "fix",
+        "category": "Import",
+        "title": "Fix import failure of beatmap sets containing duplicate beatmap difficulties",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T09:09:17+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 526,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2987,
+        "github_url": "https://github.com/ppy/osu/pull/2987",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix pixel gap in user profile when scrolling",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T09:27:31+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 527,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3026,
+        "github_url": "https://github.com/ppy/osu/pull/3026",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Improve visuals of difficulty icons",
+        "message_html": "\u003cp\u003eBefore:\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://user-images.githubusercontent.com/191335/42680584-605c2c18-86c0-11e8-9ccb-f4bd7a89b919.png\" alt=\"image\" /\u003e\u003c/p\u003e\n\u003cp\u003eAfter:\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://user-images.githubusercontent.com/191335/42681056-9b5e64ce-86c1-11e8-854c-23657e64a92f.png\" alt=\"image\" /\u003e\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T09:41:22+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 528,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2903,
+        "github_url": "https://github.com/ppy/osu/pull/2903",
+        "url": null,
+        "type": "fix",
+        "category": "Gameplay",
+        "title": "Implement storyboard sample playback",
+        "message_html": "\u003cp\u003eImplements storyboard samples for keysounded maps. Keysounds are not completely implemented yet - that will come with a future implementation.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T09:48:06+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 529,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3027,
+        "github_url": "https://github.com/ppy/osu/pull/3027",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Remove migration log output",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T10:40:08+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 530,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2975,
+        "github_url": "https://github.com/ppy/osu/pull/2975",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Change osu!standard default key bindings",
+        "message_html": "\u003cp\u003eDefaults for new installs are now A/S instead of Z/X. These keys are better supported as \u0026quot;game\u0026quot; keys on some keyboards (being part of WASD) and also become keyboard layout agnostic (for most common layouts).\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T11:33:24+00:00",
+        "github_user": {
+          "id": 67,
+          "display_name": "thatprogrammer1",
+          "github_url": "https://github.com/thatprogrammer1",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 532,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3029,
+        "github_url": "https://github.com/ppy/osu/pull/3029",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix informational overlays not hiding when user toggles other overlay views",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T11:56:02+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 534,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3030,
+        "github_url": "https://github.com/ppy/osu/pull/3030",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Make focused overlays block \"select\" and keys",
+        "message_html": "\u003cp\u003eFixes keys and actions transmitting behind the music controller and other overlays.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T12:20:44+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 535,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2990,
+        "github_url": "https://github.com/ppy/osu/pull/2990",
+        "url": null,
+        "type": "fix",
+        "category": "Settings",
+        "title": "Make arrow keys change settings at the lowest possible intervals",
+        "message_html": "\u003cp\u003eFor maximum precision.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T15:38:49+00:00",
+        "github_user": {
+          "id": 16,
+          "display_name": "HoutarouOreki",
+          "github_url": "https://github.com/HoutarouOreki",
+          "osu_username": "HoutarouOreki",
+          "user_id": 2426158,
+          "user_url": "https://osu.ppy.sh/users/2426158"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4235,
+    "version": "2018.713.0",
+    "display_version": "2018.713.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-13T17:38:15+00:00",
+    "disqus_id": "build_b2018.713web",
+    "disqus_title": "Release Notes for b2018.713.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 489,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1517,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1517",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[EN/ZH] Tournaments-CJB",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T05:43:35+00:00",
+        "github_user": {
+          "id": 42,
+          "display_name": "kj415j45",
+          "github_url": "https://github.com/kj415j45",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 499,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3465,
+        "github_url": "https://github.com/ppy/osu-web/pull/3465",
+        "url": null,
+        "type": "fix",
+        "category": "Design",
+        "title": "Add tooltip for registered players count",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T11:32:36+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 501,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1519,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1519",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[CWC 2018] Grand Finals Update",
+        "message_html": "\u003cp\u003eUpdated results of the finals and bracket. Added schedule for the Grand Finals.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-10T22:23:14+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 502,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3476,
+        "github_url": "https://github.com/ppy/osu-web/pull/3476",
+        "url": null,
+        "type": "fix",
+        "category": "Modding",
+        "title": "Fix beatmapset disqualification message preview",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T06:37:21+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 509,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1521,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1521",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[CWC 2018] Reschedule for Chile vs China",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T17:11:38+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 510,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1515,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1515",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Intermediate Global Taiko Showdown 2018 Wiki Page",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T00:51:36+00:00",
+        "github_user": {
+          "id": 31,
+          "display_name": "fajar13k",
+          "github_url": "https://github.com/fajar13k",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 511,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3478,
+        "github_url": "https://github.com/ppy/osu-web/pull/3478",
+        "url": null,
+        "type": "fix",
+        "category": "Changelog",
+        "title": "Fewer queries on changelog index page",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T04:39:01+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 516,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3484,
+        "github_url": "https://github.com/ppy/osu-web/pull/3484",
+        "url": null,
+        "type": "fix",
+        "category": "Design",
+        "title": "Flexible title height for new header",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T10:42:31+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 520,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3482,
+        "github_url": "https://github.com/ppy/osu-web/pull/3482",
+        "url": null,
+        "type": "fix",
+        "category": "Forum",
+        "title": "Prefix replied topics title with Re: in forum listing",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T03:49:25+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 521,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3481,
+        "github_url": "https://github.com/ppy/osu-web/pull/3481",
+        "url": null,
+        "type": "fix",
+        "category": "Localisation",
+        "title": "Add Bulgarian localisation",
+        "message_html": "\u003cp\u003eThanks to translators at \u003ca href=\"https://crowdin.com/project/osu-web\"\u003ecrowdin\u003c/a\u003e.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-13T03:49:52+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 524,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3480,
+        "github_url": "https://github.com/ppy/osu-web/pull/3480",
+        "url": null,
+        "type": "fix",
+        "category": "Localisation",
+        "title": "Update localisations",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-13T07:37:26+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4233,
+    "version": "2018.712.0",
+    "display_version": "2018.712.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-12T15:12:39+00:00",
+    "disqus_id": "build_b2018.712lazer",
+    "disqus_title": "Release Notes for b2018.712.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 503,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1682,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1682",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Make PassThroughInputManager sync with parent input state",
+        "message_html": "\u003cp\u003eFixes cases where gameplay input got out of sync with local input.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-11T06:37:40+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 504,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1701,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1701",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix incorrect intersection logic",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T07:36:59+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 505,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1685,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1685",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Don't inject local dependencies on self",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T07:44:11+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 506,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2948,
+        "github_url": "https://github.com/ppy/osu/pull/2948",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix \"disable mouse buttons\" not working",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T09:04:45+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 507,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3005,
+        "github_url": "https://github.com/ppy/osu/pull/3005",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Turn cache back on for chocolatey packages",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-11T11:14:45+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 508,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3002,
+        "github_url": "https://github.com/ppy/osu/pull/3002",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Use zip distribution instead of dmg for mac builds",
+        "message_html": "\u003cp\u003eAvoiding disk images is preferred these days.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-11T12:14:23+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 512,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1707,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1707",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix draw visualiser title bar ignoring drags in some cases",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T07:32:14+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 513,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3015,
+        "github_url": "https://github.com/ppy/osu/pull/3015",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Fix osu! logo handling non-left mouse buttons",
+        "message_html": "\u003cp\u003eCould potentially block user bindings such as \u0026quot;Back\u0026quot; when the logo was hovered.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-12T09:10:59+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 514,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1706,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1706",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix focus overlay focus",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T10:01:37+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 515,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1708,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1708",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix empty tooltips being shown incorrectly",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T10:13:33+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 517,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3001,
+        "github_url": "https://github.com/ppy/osu/pull/3001",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix key configuration row sometimes not expanding on click",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-12T11:16:29+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 518,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3004,
+        "github_url": "https://github.com/ppy/osu/pull/3004",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Update disclaimer",
+        "message_html": "\u003cp\u003eThe text on the old one didn't match the level of progress we have made (in terms of bug reporting status or professionalism).\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-12T14:54:08+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 519,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 3017,
+        "github_url": "https://github.com/ppy/osu/pull/3017",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Restore old tooltip appear delay behaviour",
+        "message_html": "\u003cp\u003eTooltips should display faster if the tooltip is already partly visible. This regressed with the addition of custon \u003ccode\u003eAppearDelay\u003c/code\u003e.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-12T15:07:33+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4229,
+    "version": "2018.710.0",
+    "display_version": "2018.710.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-10T11:20:15+00:00",
+    "disqus_id": "build_b2018.710lazer",
+    "disqus_title": "Release Notes for b2018.710.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 484,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1699,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1699",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Fix joystick button handling being completely incorrect",
+        "message_html": "\u003cp\u003eI should have tested with a virtual joystick.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-10T03:32:23+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 485,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1696,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1696",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Propagate min/max bindable value changes",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T03:43:19+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 486,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1680,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1680",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Output debug logs for framework consumers based on executing assembly's release type",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T04:23:01+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 487,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1681,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1681",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Populate Logger's version with assembly version information by default",
+        "message_html": "\u003cp\u003eFixes logs not having a version if not explicitly specified by the game.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-10T04:40:17+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 488,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1693,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1693",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Remove net471 targeting (framework only for now)",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T05:13:55+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 490,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1700,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1700",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Remove duplicate OpenGL initialisation",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T05:47:18+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 491,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2984,
+        "github_url": "https://github.com/ppy/osu/pull/2984",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix toolbar ruleset selector breaking at main menu",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T06:31:04+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 492,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2976,
+        "github_url": "https://github.com/ppy/osu/pull/2976",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Fix right mouse activated absolute scroll not working",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T06:49:24+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 493,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2973,
+        "github_url": "https://github.com/ppy/osu/pull/2973",
+        "url": null,
+        "type": "fix",
+        "category": "Import",
+        "title": "Fix import failures if single set has multiple conflicting OnlineBeatmapIDs",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T07:02:35+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 494,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2968,
+        "github_url": "https://github.com/ppy/osu/pull/2968",
+        "url": null,
+        "type": "fix",
+        "category": "Updater",
+        "title": "Add notification based update path",
+        "message_html": "\u003cp\u003eOpens the door to releasing official builds for platforms which don't have automatic updates yet.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://user-images.githubusercontent.com/191335/42366393-01e5af58-813c-11e8-9529-3fd5b58b1ec4.png\" alt=\"image\" /\u003e\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-10T07:20:24+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 495,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2963,
+        "github_url": "https://github.com/ppy/osu/pull/2963",
+        "url": null,
+        "type": "fix",
+        "category": "Online",
+        "title": "Fix links from profile top scores to beatmaps not working correctly",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T07:32:01+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 496,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2961,
+        "github_url": "https://github.com/ppy/osu/pull/2961",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix some typos and add common custom terms to R# dictionary",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T07:43:59+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 497,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2945,
+        "github_url": "https://github.com/ppy/osu/pull/2945",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix many discrepancies in main menu button display",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T08:18:53+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 498,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2986,
+        "github_url": "https://github.com/ppy/osu/pull/2986",
+        "url": null,
+        "type": "fix",
+        "category": "Gameplay",
+        "title": "Fix lack of fallback logic for custom bank samples",
+        "message_html": "\u003cp\u003eWas causing some beatmaps to not play all of their hitsounds\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-10T08:37:02+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 500,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2988,
+        "github_url": "https://github.com/ppy/osu/pull/2988",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Update framework and other packages",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-10T12:02:34+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4228,
+    "version": "2018.710.0",
+    "display_version": "2018.710.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-10T04:13:37+00:00",
+    "disqus_id": "build_b2018.710web",
+    "disqus_title": "Release Notes for b2018.710.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 470,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1511,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1511",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Update QAT/BN List",
+        "message_html": "\u003cp\u003eMinor updates\nMoved Hobbes2 and Maxus from BN to QAT\nMoved Asherz007 from QAT to BN\nRemoved Sorcerer, celerih, Arzenvald, and AyanokoRin from BN\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T10:44:40+00:00",
+        "github_user": {
+          "id": 65,
+          "display_name": "Xinnoh",
+          "github_url": "https://github.com/Xinnoh",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 471,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1514,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1514",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Twitter: update BanchoBoat's avatar",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-07T16:11:28+00:00",
+        "github_user": {
+          "id": 29,
+          "display_name": "MegaApplePi",
+          "github_url": "https://github.com/MegaApplePi",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 476,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3470,
+        "github_url": "https://github.com/ppy/osu-web/pull/3470",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Return class instead of new instance from getClass()",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T08:08:02+00:00",
+        "github_user": {
+          "id": 1,
+          "display_name": "notbakaneko",
+          "github_url": "https://github.com/notbakaneko",
+          "osu_username": "notbakaneko",
+          "user_id": 10751776,
+          "user_url": "https://osu.ppy.sh/users/10751776"
+        }
+      },
+      {
+        "id": 483,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1516,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1516",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[LMS Shift] Grand Finals update",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T12:45:10+00:00",
+        "github_user": {
+          "id": 31,
+          "display_name": "fajar13k",
+          "github_url": "https://github.com/fajar13k",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 4227,
+    "version": "2018.709.0",
+    "display_version": "2018.709.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-09T14:40:37+00:00",
+    "disqus_id": "build_b2018.709lazer",
+    "disqus_title": "Release Notes for b2018.709.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 460,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1689,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1689",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Remove OpenTK.dll from osu.Framework directory",
+        "message_html": "\u003cp\u003eRemoves a file that was accidentally added to the project.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T12:49:05+00:00",
+        "github_user": {
+          "id": 22,
+          "display_name": "FreezyLemon",
+          "github_url": "https://github.com/FreezyLemon",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 463,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2964,
+        "github_url": "https://github.com/ppy/osu/pull/2964",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Remove extra commas in vscode build configuration",
+        "message_html": "\u003cp\u003eMake launch.json a valid JSON file\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T04:20:38+00:00",
+        "github_user": {
+          "id": 64,
+          "display_name": "johnneijzen",
+          "github_url": "https://github.com/johnneijzen",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 464,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2946,
+        "github_url": "https://github.com/ppy/osu/pull/2946",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Add \"Select\" action",
+        "message_html": "\u003cp\u003eAllows progressing forwards in the interface\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T07:48:38+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 465,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2933,
+        "github_url": "https://github.com/ppy/osu/pull/2933",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix menu cursor not highlighting when pressing multiple buttons",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-06T08:56:39+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 466,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1686,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1686",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Delay first setActive call until event handlers are set up",
+        "message_html": "\u003cp\u003eFixes game not always being active on startup, even when window is.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T09:11:18+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 472,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2876,
+        "github_url": "https://github.com/ppy/osu/pull/2876",
+        "url": null,
+        "type": "fix",
+        "category": "Gameplay",
+        "title": "Fix more instances of osu!mania beatmap conversion failing",
+        "message_html": "\u003cp\u003eFixes various instances where mania's beatmap conversion differed from osu!stable:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eStair patterns were never generated due to missing initialisation.\n\u003cul\u003e\n\u003cli\u003eThere were also off-by-one cases when the stair type was switched too early.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eSpinner/slider density/generated notes were never recorded.\u003c/li\u003e\n\u003cli\u003e\u0026quot;Gathered\u0026quot; (clustered) notes were generated more frequently on single-column jacks.\u003c/li\u003e\n\u003cli\u003eDrain time was incorrectly computed as being rounded to the millisecond, rather than rounded to the second.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eAlso fixes the output of beatmap conversion tests when the mapping equality fails.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-07T16:54:59+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 473,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1694,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1694",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Mark dependency-injected methods as implicitly-used",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T03:19:53+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 474,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1695,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1695",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Correct minor typo in documentation",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T03:39:44+00:00",
+        "github_user": {
+          "id": 66,
+          "display_name": "Elabar",
+          "github_url": "https://github.com/Elabar",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 475,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1678,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1678",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Manage state separately for each mouse button",
+        "message_html": "\u003cp\u003eAllows for much better handling of events on a per-button level, which was previously not possible.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-09T06:25:39+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 477,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2977,
+        "github_url": "https://github.com/ppy/osu/pull/2977",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix some possible null reference exceptions",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T08:43:01+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 478,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2978,
+        "github_url": "https://github.com/ppy/osu/pull/2978",
+        "url": null,
+        "type": "fix",
+        "category": "Online",
+        "title": "Remove unused age display code",
+        "message_html": "\u003cp\u003eSince we're no longer collecting birthdays/ages (ppy/osu-web#3432).\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-09T09:17:13+00:00",
+        "github_user": {
+          "id": 16,
+          "display_name": "HoutarouOreki",
+          "github_url": "https://github.com/HoutarouOreki",
+          "osu_username": "HoutarouOreki",
+          "user_id": 2426158,
+          "user_url": "https://osu.ppy.sh/users/2426158"
+        }
+      },
+      {
+        "id": 479,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2981,
+        "github_url": "https://github.com/ppy/osu/pull/2981",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix being able to trigger player before carousel is ready",
+        "message_html": "\u003cp\u003eCauses an eventual crash.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-09T10:02:09+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 480,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2980,
+        "github_url": "https://github.com/ppy/osu/pull/2980",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix pressing escape too fast causing multiple exit attempts at song select",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T10:10:42+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 481,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2979,
+        "github_url": "https://github.com/ppy/osu/pull/2979",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix OSD fade-in not correctly debouncing",
+        "message_html": "\u003cp\u003eIt could potentially never fade in completely on quick presses.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-09T10:19:10+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 482,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1698,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1698",
+        "url": null,
+        "type": "fix",
+        "category": "Tests",
+        "title": "Fix flashing in test case",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-09T11:36:51+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4226,
+    "version": "2018.706.0",
+    "display_version": "2018.706.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-06T09:43:58+00:00",
+    "disqus_id": "build_b2018.706web",
+    "disqus_title": "Release Notes for b2018.706.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 447,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1485,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1485",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Update BanchoBot",
+        "message_html": "\u003cp\u003eUpdate BanchoBot's usercard, fix lead paragraph, move away from tables, and remove comments.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-04T10:13:05+00:00",
+        "github_user": {
+          "id": 29,
+          "display_name": "MegaApplePi",
+          "github_url": "https://github.com/MegaApplePi",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 448,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1497,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1497",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Mentorship Fall 2018 newspost",
+        "message_html": "\u003cp\u003eFall 2018 signups are open so we wanna announce this in a place with more reach like the other two times where we didn't forget to do this (we forgot for the summer cycle xD)\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-04T12:43:27+00:00",
+        "github_user": {
+          "id": 62,
+          "display_name": "Okorin",
+          "github_url": "https://github.com/Okorin",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 449,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1508,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1508",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[PL] Registration",
+        "message_html": "\u003cp\u003eTranslate the Registration article into Polish.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-04T15:59:50+00:00",
+        "github_user": {
+          "id": 37,
+          "display_name": "TPGPL",
+          "github_url": "https://github.com/TPGPL",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 450,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1506,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1506",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[THOM CUP] Finals Update",
+        "message_html": "\u003cul\u003e\n\u003cli\u003eAdded results from Quarter and Semi finals.\u003c/li\u003e\n\u003cli\u003eAdded mappools from Semifinals and finals.\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "major": false,
+        "created_at": "2018-07-04T17:19:04+00:00",
+        "github_user": {
+          "id": 45,
+          "display_name": "WalterToro",
+          "github_url": "https://github.com/WalterToro",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 451,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1509,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1509",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[PL] Reword a sentence in the Registration article",
+        "message_html": "\u003cp\u003eReword a sentence in the Polish translation of Registration, so it doesn't have two exclamation marks alongside.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-04T22:24:44+00:00",
+        "github_user": {
+          "id": 37,
+          "display_name": "TPGPL",
+          "github_url": "https://github.com/TPGPL",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 453,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3457,
+        "github_url": "https://github.com/ppy/osu-web/pull/3457",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Update docker",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-05T07:39:54+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 459,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1504,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1504",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Add space between osu! and wiki",
+        "message_html": "\u003cp\u003eAdd space between \u003ccode\u003eosu!\u003c/code\u003e and \u003ccode\u003ewiki\u003c/code\u003e in many wiki articles.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T11:56:34+00:00",
+        "github_user": {
+          "id": 9,
+          "display_name": "Joehuu",
+          "github_url": "https://github.com/Joehuu",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 462,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1510,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1510",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[CWC 2018] Fixed MX flag",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-06T03:20:32+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 467,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3455,
+        "github_url": "https://github.com/ppy/osu-web/pull/3455",
+        "url": null,
+        "type": "fix",
+        "category": "Changelog",
+        "title": "Give repositories an optional default category",
+        "message_html": "\u003cp\u003eMake less work for peppy\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T09:23:11+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 468,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3448,
+        "github_url": "https://github.com/ppy/osu-web/pull/3448",
+        "url": null,
+        "type": "fix",
+        "category": "Localisation",
+        "title": "Add Czech localisation",
+        "message_html": "\u003cp\u003eThanks to translators on \u003ca href=\"https://crowdin.com/project/osu-web/cs\"\u003ecrowdin\u003c/a\u003e.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-06T09:24:14+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 469,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3464,
+        "github_url": "https://github.com/ppy/osu-web/pull/3464",
+        "url": null,
+        "type": "fix",
+        "category": "Changelog",
+        "title": "Fix entries access from update stream",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-06T09:42:38+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4225,
+    "version": "2018.705.0",
+    "display_version": "2018.705.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-05T12:01:47+00:00",
+    "disqus_id": "build_b2018.705lazer",
+    "disqus_title": "Release Notes for b2018.705.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 419,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1670,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1670",
+        "url": null,
+        "type": "fix",
+        "category": "Graphics",
+        "title": "Fix specific scenarios where Drawables can get drawn before they're updated",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-01T13:25:43+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 421,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1660,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1660",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Cleanup ManualInputManager and make a common base class for test cases which use ManualInputManager",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T02:06:47+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 422,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1674,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1674",
+        "url": null,
+        "type": "fix",
+        "category": "IO",
+        "title": "Add GetFiles to Storage",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T02:29:27+00:00",
+        "github_user": {
+          "id": 14,
+          "display_name": "jorolf",
+          "github_url": "https://github.com/jorolf",
+          "osu_username": "jorolf",
+          "user_id": 7004641,
+          "user_url": "https://osu.ppy.sh/users/7004641"
+        }
+      },
+      {
+        "id": 442,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2944,
+        "github_url": "https://github.com/ppy/osu/pull/2944",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix beatmap details not loading for unranked beatmaps",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-03T07:06:46+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 444,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2931,
+        "github_url": "https://github.com/ppy/osu/pull/2931",
+        "url": null,
+        "type": "fix",
+        "category": "Beatmap",
+        "title": "Tidy up lookups to nested hitobjects",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-03T10:59:01+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 446,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2947,
+        "github_url": "https://github.com/ppy/osu/pull/2947",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix selecting a button on a dialog causing both that button and exit to animate",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-04T03:04:57+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 452,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2942,
+        "github_url": "https://github.com/ppy/osu/pull/2942",
+        "url": null,
+        "type": "fix",
+        "category": "UI",
+        "title": "Fix FooterButton clicking area",
+        "message_html": "\u003cp\u003eShould only receive input on the highlighted area.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T05:03:04+00:00",
+        "github_user": {
+          "id": 9,
+          "display_name": "Joehuu",
+          "github_url": "https://github.com/Joehuu",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 454,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1658,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1658",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Make mouse wheel bind actions know amount of scroll",
+        "message_html": "\u003cp\u003eAllows components using custom bindings to also handle mouse wheel with more control.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T07:42:09+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 455,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1684,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1684",
+        "url": null,
+        "type": "fix",
+        "category": "Graphics",
+        "title": "Add abstract GameWindow.GetCurrentDisplay() method",
+        "message_html": "\u003cp\u003eAdds a method in preparation for fullscreen multi-monitor support.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T08:37:35+00:00",
+        "github_user": {
+          "id": 22,
+          "display_name": "FreezyLemon",
+          "github_url": "https://github.com/FreezyLemon",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 456,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2908,
+        "github_url": "https://github.com/ppy/osu/pull/2908",
+        "url": null,
+        "type": "fix",
+        "category": "Beatmap",
+        "title": "Add support for multiple sample banks",
+        "message_html": "\u003cp\u003eBrings back osu!stable's \u003ca href=\"https://osu.ppy.sh/help/wiki/Guides/Adding_Custom_Hit_Sounds#multiple-hit-sounds-with-the-same-name\"\u003e\u0026quot;multiple hit sounds with the same name\u0026quot;\u003c/a\u003e functionality.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T10:14:22+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 457,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2867,
+        "github_url": "https://github.com/ppy/osu/pull/2867",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Hint bass library path when running from vscode on linux",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-05T10:41:42+00:00",
+        "github_user": {
+          "id": 63,
+          "display_name": "LastExceed",
+          "github_url": "https://github.com/LastExceed",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 458,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2929,
+        "github_url": "https://github.com/ppy/osu/pull/2929",
+        "url": null,
+        "type": "fix",
+        "category": "Beatmap",
+        "title": "Add support for HitObject level custom samples",
+        "message_html": "\u003cp\u003eBrings back osu!stable's \u003ca href=\"https://osu.ppy.sh/help/wiki/Beatmap_Editor/Compose\"\u003e\u0026quot;keysounding\u0026quot;\u003c/a\u003e functionality.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-05T11:28:08+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 461,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2890,
+        "github_url": "https://github.com/ppy/osu/pull/2890",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Update volume controls to use mouse wheel actions",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-05T13:59:51+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 4224,
+    "version": "2018.704.0",
+    "display_version": "2018.704.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-04T00:59:23+00:00",
+    "disqus_id": "build_b2018.704web",
+    "disqus_title": "Release Notes for b2018.704.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 440,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1499,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1499",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[ZH] BBCode",
+        "message_html": "\u003cp\u003eTranslate the BBCode article into Chinese.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T18:52:17+00:00",
+        "github_user": {
+          "id": 42,
+          "display_name": "kj415j45",
+          "github_url": "https://github.com/kj415j45",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 441,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3446,
+        "github_url": "https://github.com/ppy/osu-web/pull/3446",
+        "url": null,
+        "type": "fix",
+        "category": "Modding",
+        "title": "Always switch to timeline tab when switching beatmap",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-03T03:16:32+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 443,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1501,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1501",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Add Project Loved: Week of July 1st news post",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-03T07:29:02+00:00",
+        "github_user": {
+          "id": 24,
+          "display_name": "cl8n",
+          "github_url": "https://github.com/cl8n",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 445,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1505,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1505",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[CWC 2018] Finals Update",
+        "message_html": "\u003cp\u003eAdded schedule for the Finals, map pool and results. Updated bracket.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-03T17:19:00+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 4223,
+    "version": "2018.702.0",
+    "display_version": "2018.702.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-02T12:36:35+00:00",
+    "disqus_id": "build_b2018.702lazer",
+    "disqus_title": "Release Notes for b2018.702.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 420,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2923,
+        "github_url": "https://github.com/ppy/osu/pull/2923",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix rulesets not loading in debug builds after running a release build",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T00:42:29+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 424,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2925,
+        "github_url": "https://github.com/ppy/osu/pull/2925",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Dependency inject the mania column keybind",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T03:57:51+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 425,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2916,
+        "github_url": "https://github.com/ppy/osu/pull/2916",
+        "url": null,
+        "type": "fix",
+        "category": "Gameplay",
+        "title": "Extend BeatmapProcessor to allow processing hitobjects prior to ApplyDefaults",
+        "message_html": "\u003cp\u003eAllows more flexibilty over how hitobjects are adjusted before and after their child objects are created and populated.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T04:20:55+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 426,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2882,
+        "github_url": "https://github.com/ppy/osu/pull/2882",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Fix incorrect usages of null coalesce",
+        "message_html": "\u003cp\u003eIts priority is lower than priority of other operators in its left part.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T05:40:17+00:00",
+        "github_user": {
+          "id": 7,
+          "display_name": "UselessToucan",
+          "github_url": "https://github.com/UselessToucan",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 428,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2769,
+        "github_url": "https://github.com/ppy/osu/pull/2769",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Standardise handling of \"Back\" key binding",
+        "message_html": "\u003cp\u003eThe back action is now customisable from settings. It also handles in a more conformant way, game-wide, whether bound to a mouse button or a keyboard key.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T06:01:24+00:00",
+        "github_user": {
+          "id": 11,
+          "display_name": "Aergwyn",
+          "github_url": "https://github.com/Aergwyn",
+          "osu_username": "Aergwyn",
+          "user_id": 3075211,
+          "user_url": "https://osu.ppy.sh/users/3075211"
+        }
+      },
+      {
+        "id": 429,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2842,
+        "github_url": "https://github.com/ppy/osu/pull/2842",
+        "url": null,
+        "type": "fix",
+        "category": "Menus",
+        "title": "Fix background screens not supporting early-exit condition",
+        "message_html": "\u003cp\u003eFixes crashes when rapidly changing screens.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T06:17:15+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 431,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2885,
+        "github_url": "https://github.com/ppy/osu/pull/2885",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Make BindableRuleset non-null",
+        "message_html": "\u003cp\u003eReduces error proneness of previously nulable field.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T07:04:32+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 433,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2934,
+        "github_url": "https://github.com/ppy/osu/pull/2934",
+        "url": null,
+        "type": "fix",
+        "category": "Settings",
+        "title": "Fix crash if the skin stored in the config doesn't exist anymore",
+        "message_html": "\u003cp\u003eIf the database fails to migrate, it's possible for the skin stored in the config to get out of sync with the skins present in the database, causing a crash at startup.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T08:07:48+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 435,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2924,
+        "github_url": "https://github.com/ppy/osu/pull/2924",
+        "url": null,
+        "type": "fix",
+        "category": "Song Select",
+        "title": "Fix leaderboard showing placeholder briefly when entering song select",
+        "message_html": "\u003cp\u003eThe leaderboard area would briefly show \u0026quot;No scores\u0026quot; before song select was finished initialising, even if there were potentially scores to be fetched. No more.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T08:25:31+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 437,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2690,
+        "github_url": "https://github.com/ppy/osu/pull/2690",
+        "url": null,
+        "type": "fix",
+        "category": "Gameplay",
+        "title": "Add key bindings for scroll speed",
+        "message_html": "\u003cp\u003eYou can now customise the keys to adjust scroll speed in gameplay.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T08:40:17+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 438,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2928,
+        "github_url": "https://github.com/ppy/osu/pull/2928",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Standardise input handling of popup dialogs",
+        "message_html": "\u003cp\u003eClicking outside of the popup will cancel it. Also cancelling always triggers the last button in the popup.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T09:09:03+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 439,
+        "repository": "ppy/osu",
+        "github_pull_request_id": 2932,
+        "github_url": "https://github.com/ppy/osu/pull/2932",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Fix MenuCursor assertion failure when multiple mouse buttons pressed",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T12:29:00+00:00",
+        "github_user": {
+          "id": 26,
+          "display_name": "ekrctb",
+          "github_url": "https://github.com/ekrctb",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 4222,
+    "version": "2018.702.0",
+    "display_version": "2018.702.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-02T07:04:05+00:00",
+    "disqus_id": "build_b2018.702web",
+    "disqus_title": "Release Notes for b2018.702.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 301,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1479,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1479",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Schedule fix",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-20T03:46:31+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 418,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1404,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1404",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "osu!idol 2018 auditions announcement",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-01T12:08:11+00:00",
+        "github_user": {
+          "id": 61,
+          "display_name": "Flanster",
+          "github_url": "https://github.com/Flanster",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 423,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3445,
+        "github_url": "https://github.com/ppy/osu-web/pull/3445",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Workaround not null constraint on user avatar",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T02:38:31+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 427,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3438,
+        "github_url": "https://github.com/ppy/osu-web/pull/3438",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Find changelog entry orphans by stream id",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T05:59:44+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 430,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3436,
+        "github_url": "https://github.com/ppy/osu-web/pull/3436",
+        "url": null,
+        "type": "fix",
+        "category": "Misc",
+        "title": "Add confirmation on exiting editor with unsaved changes",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T06:34:35+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 432,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3417,
+        "github_url": "https://github.com/ppy/osu-web/pull/3417",
+        "url": null,
+        "type": "fix",
+        "category": "Modding",
+        "title": "Fix linking pending page in beatmap discussions",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T07:16:24+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 434,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3444,
+        "github_url": "https://github.com/ppy/osu-web/pull/3444",
+        "url": null,
+        "type": "fix",
+        "category": "Beatmaps",
+        "title": "Fix error on negative favourite count",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-07-02T08:10:42+00:00",
+        "github_user": {
+          "id": 2,
+          "display_name": "nanaya",
+          "github_url": "https://github.com/nanaya",
+          "osu_username": "nanaya",
+          "user_id": 2387883,
+          "user_url": "https://osu.ppy.sh/users/2387883"
+        }
+      },
+      {
+        "id": 436,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3449,
+        "github_url": "https://github.com/ppy/osu-web/pull/3449",
+        "url": null,
+        "type": "fix",
+        "category": "Localisation",
+        "title": "Update localisations",
+        "message_html": "\u003cp\u003eThanks to translators on \u003ca href=\"https://crowdin.com/project/osu-web/\"\u003ecrowdin\u003c/a\u003e.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-07-02T08:36:27+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4221,
+    "version": "2018.701.0",
+    "display_version": "2018.701.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-01T10:25:07+00:00",
+    "disqus_id": "build_b2018.701web",
+    "disqus_title": "Release Notes for b2018.701.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    },
+    "changelog_entries": [
+      {
+        "id": 400,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1494,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1494",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[CWC 2018] Reschedule for FR vs TW",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-29T01:55:47+00:00",
+        "github_user": {
+          "id": 20,
+          "display_name": "juankristal",
+          "github_url": "https://github.com/juankristal",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 402,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1489,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1489",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "[ATS 2018] Finals update",
+        "message_html": "\u003cp\u003eAdd Finals update to ATS 2018:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eSchedules update\u003c/li\u003e\n\u003cli\u003eMap pools update\u003c/li\u003e\n\u003cli\u003ePrevious stage results update\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "major": false,
+        "created_at": "2018-06-29T05:51:43+00:00",
+        "github_user": {
+          "id": 31,
+          "display_name": "fajar13k",
+          "github_url": "https://github.com/fajar13k",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 405,
+        "repository": "ppy/osu-web",
+        "github_pull_request_id": 3410,
+        "github_url": "https://github.com/ppy/osu-web/pull/3410",
+        "url": null,
+        "type": "fix",
+        "category": "Search",
+        "title": "Restore focus when loading new search results",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-29T08:39:47+00:00",
+        "github_user": {
+          "id": 1,
+          "display_name": "notbakaneko",
+          "github_url": "https://github.com/notbakaneko",
+          "osu_username": "notbakaneko",
+          "user_id": 10751776,
+          "user_url": "https://osu.ppy.sh/users/10751776"
+        }
+      },
+      {
+        "id": 417,
+        "repository": "ppy/osu-wiki",
+        "github_pull_request_id": 1495,
+        "github_url": "https://github.com/ppy/osu-wiki/pull/1495",
+        "url": null,
+        "type": "fix",
+        "category": "Wiki",
+        "title": "Upload CWC2018 Quarter Finals Recap",
+        "message_html": "\u003cp\u003eAuthored by Dohland (https://osu.ppy.sh/u/5220511)\nCleanup, formatting and PR by JBHyperion\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-30T00:52:28+00:00",
+        "github_user": {
+          "id": 41,
+          "display_name": "JBHyperion",
+          "github_url": "https://github.com/JBHyperion",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 4220,
+    "version": "2018.701.0",
+    "display_version": "2018.701.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-01T06:54:24+00:00",
+    "disqus_id": "build_b2018.701lazer",
+    "disqus_title": "Release Notes for b2018.701.0 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    },
+    "changelog_entries": [
+      {
+        "id": 381,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1636,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1636",
+        "url": null,
+        "type": "fix",
+        "category": "Framework",
+        "title": "Allow screens to be exited before they are completely loaded",
+        "message_html": "\u003cp\u003eFixes crashes on rapidly changing between game screens.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-27T05:04:14+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 388,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1663,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1663",
+        "url": null,
+        "type": "fix",
+        "category": "Framework",
+        "title": "Fix null reference when calling AddText without default creation parameters present",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-28T02:39:31+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 392,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1651,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1651",
+        "url": null,
+        "type": "fix",
+        "category": "Framework",
+        "title": "Fix incorrect usage of null coalesce",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-28T08:36:08+00:00",
+        "github_user": {
+          "id": 7,
+          "display_name": "UselessToucan",
+          "github_url": "https://github.com/UselessToucan",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 395,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1645,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1645",
+        "url": null,
+        "type": "fix",
+        "category": "Platform",
+        "title": "Add library loading and load libbass.so globally on linux",
+        "message_html": "\u003cp\u003eFix beatmaps not playing on linux.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-28T10:14:59+00:00",
+        "github_user": {
+          "id": 59,
+          "display_name": "morguldir",
+          "github_url": "https://github.com/morguldir",
+          "osu_username": null,
+          "user_id": null,
+          "user_url": null
+        }
+      },
+      {
+        "id": 401,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1666,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1666",
+        "url": null,
+        "type": "fix",
+        "category": "Graphics",
+        "title": "Compute CircularContainer's corner radius as late as possible",
+        "message_html": "\u003cp\u003eFixes random squares appearing instead of circles for 1 frame in various areas.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-29T03:06:45+00:00",
+        "github_user": {
+          "id": 5,
+          "display_name": "smoogipoo",
+          "github_url": "https://github.com/smoogipoo",
+          "osu_username": "smoogipoo",
+          "user_id": 1040328,
+          "user_url": "https://osu.ppy.sh/users/1040328"
+        }
+      },
+      {
+        "id": 408,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1656,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1656",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Expose the ability to kill focus of a textbox",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-29T09:40:45+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 410,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1654,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1654",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Remove escape handling logic from FocusedOverlayContainer",
+        "message_html": "\u003cp\u003eAllows for applications to decide how they close focused overlays.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-29T09:51:51+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 412,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1668,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1668",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Allow KeyBindingContainer actions to travel past PassThroughInputManagers",
+        "message_html": "\u003cp\u003eAllows for global actions to be handled within previous inaccessible locations, such as gameplay implementations.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-29T10:28:08+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 413,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1655,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1655",
+        "url": null,
+        "type": "fix",
+        "category": "Framework",
+        "title": "Add typed exceptions for various failures that can occur on Screen operations",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-29T10:37:50+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 414,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1657,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1657",
+        "url": null,
+        "type": "fix",
+        "category": "Input",
+        "title": "Decouple TextBox blocking behaviour from underlying text consumption",
+        "message_html": "\u003cp\u003eFixes keys not always being blocked by text boxes, leading to unexpected UI actions.\u003c/p\u003e\n",
+        "major": false,
+        "created_at": "2018-06-29T11:42:13+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      },
+      {
+        "id": 415,
+        "repository": "ppy/osu-framework",
+        "github_pull_request_id": 1659,
+        "github_url": "https://github.com/ppy/osu-framework/pull/1659",
+        "url": null,
+        "type": "fix",
+        "category": "Security",
+        "title": "Fix being able to seek to word boundaries in password fields",
+        "message_html": null,
+        "major": false,
+        "created_at": "2018-06-29T11:53:07+00:00",
+        "github_user": {
+          "id": 3,
+          "display_name": "peppy",
+          "github_url": "https://github.com/peppy",
+          "osu_username": "peppy",
+          "user_id": 2,
+          "user_url": "https://osu.ppy.sh/users/2"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4211,
+    "version": "20180626.1",
+    "display_version": "20180626.1",
+    "users": 13089,
+    "is_featured": true,
+    "created_at": "2018-06-26T07:53:08+00:00",
+    "disqus_id": "build_b20180626stable40",
+    "disqus_title": "Release Notes for b20180626.1 (Stable)",
+    "update_stream": {
+      "id": 5,
+      "name": "stable40",
+      "display_name": "Stable"
+    }
+  },
+  {
+    "id": 3808,
+    "version": "20160403.6",
+    "display_version": "20160403.6",
+    "users": 180,
+    "is_featured": false,
+    "created_at": "2016-04-03T12:03:55+00:00",
+    "disqus_id": "build_b20160403stable",
+    "disqus_title": "Release Notes for b20160403.6 (Stable Fallback)",
+    "update_stream": {
+      "id": 1,
+      "name": "stable",
+      "display_name": "Stable Fallback"
+    }
+  },
+  {
+    "id": 4209,
+    "version": "20180626",
+    "display_version": "20180626",
+    "users": 183,
+    "is_featured": false,
+    "created_at": "2018-06-26T04:36:10+00:00",
+    "disqus_id": "build_b20180626beta40",
+    "disqus_title": "Release Notes for b20180626 (Beta)",
+    "update_stream": {
+      "id": 6,
+      "name": "beta40",
+      "display_name": "Beta"
+    }
+  },
+  {
+    "id": 4212,
+    "version": "20180627",
+    "display_version": "20180627",
+    "users": 261,
+    "is_featured": false,
+    "created_at": "2018-06-26T20:01:53+00:00",
+    "disqus_id": "build_b20180627cuttingedge",
+    "disqus_title": "Release Notes for b20180627 (Cutting Edge)",
+    "update_stream": {
+      "id": 3,
+      "name": "cuttingedge",
+      "display_name": "Cutting Edge"
+    }
+  },
+  {
+    "id": 4236,
+    "version": "2018.713.1",
+    "display_version": "2018.713.1",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-13T17:38:15+00:00",
+    "disqus_id": "build_b2018.713lazer",
+    "disqus_title": "Release Notes for b2018.713.1 (Lazer)",
+    "update_stream": {
+      "id": 7,
+      "name": "lazer",
+      "display_name": "Lazer"
+    }
+  },
+  {
+    "id": 4240,
+    "version": "2018.718.0",
+    "display_version": "2018.718.0",
+    "users": 0,
+    "is_featured": false,
+    "created_at": "2018-07-18T08:17:05+00:00",
+    "disqus_id": "build_b2018.718web",
+    "disqus_title": "Release Notes for b2018.718.0 (Web)",
+    "update_stream": {
+      "id": 8,
+      "name": "web",
+      "display_name": "Web"
+    }
+  }
+]
