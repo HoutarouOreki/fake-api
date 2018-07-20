@@ -1,0 +1,365 @@
+{
+  "id": 4229,
+  "version": "2018.710.0",
+  "display_version": "2018.710.0",
+  "users": 0,
+  "is_featured": false,
+  "created_at": "2018-07-10T11:20:15+00:00",
+  "disqus_id": "build_b2018.710lazer",
+  "disqus_title": "Release Notes for b2018.710.0 (Lazer)",
+  "update_stream": {
+    "id": 7,
+    "name": "lazer",
+    "display_name": "Lazer"
+  },
+  "changelog_entries": [
+    {
+      "id": 484,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1699,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1699",
+      "url": null,
+      "type": "fix",
+      "category": "Input",
+      "title": "Fix joystick button handling being completely incorrect",
+      "message_html": "<p>I should have tested with a virtual joystick.</p>\n",
+      "major": false,
+      "created_at": "2018-07-10T03:32:23+00:00",
+      "github_user": {
+        "id": 26,
+        "display_name": "ekrctb",
+        "github_url": "https://github.com/ekrctb",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 485,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1696,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1696",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Propagate min/max bindable value changes",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T03:43:19+00:00",
+      "github_user": {
+        "id": 5,
+        "display_name": "smoogipoo",
+        "github_url": "https://github.com/smoogipoo",
+        "osu_username": "smoogipoo",
+        "user_id": 1040328,
+        "user_url": "https://osu.ppy.sh/users/1040328"
+      }
+    },
+    {
+      "id": 486,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1680,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1680",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Output debug logs for framework consumers based on executing assembly's release type",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T04:23:01+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 487,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1681,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1681",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Populate Logger's version with assembly version information by default",
+      "message_html": "<p>Fixes logs not having a version if not explicitly specified by the game.</p>\n",
+      "major": false,
+      "created_at": "2018-07-10T04:40:17+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 488,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1693,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1693",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Remove net471 targeting (framework only for now)",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T05:13:55+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 490,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1700,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1700",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Remove duplicate OpenGL initialisation",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T05:47:18+00:00",
+      "github_user": {
+        "id": 5,
+        "display_name": "smoogipoo",
+        "github_url": "https://github.com/smoogipoo",
+        "osu_username": "smoogipoo",
+        "user_id": 1040328,
+        "user_url": "https://osu.ppy.sh/users/1040328"
+      }
+    },
+    {
+      "id": 491,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2984,
+      "github_url": "https://github.com/ppy/osu/pull/2984",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix toolbar ruleset selector breaking at main menu",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T06:31:04+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 492,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2976,
+      "github_url": "https://github.com/ppy/osu/pull/2976",
+      "url": null,
+      "type": "fix",
+      "category": "Input",
+      "title": "Fix right mouse activated absolute scroll not working",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T06:49:24+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 493,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2973,
+      "github_url": "https://github.com/ppy/osu/pull/2973",
+      "url": null,
+      "type": "fix",
+      "category": "Import",
+      "title": "Fix import failures if single set has multiple conflicting OnlineBeatmapIDs",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T07:02:35+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 494,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2968,
+      "github_url": "https://github.com/ppy/osu/pull/2968",
+      "url": null,
+      "type": "fix",
+      "category": "Updater",
+      "title": "Add notification based update path",
+      "message_html": "<p>Opens the door to releasing official builds for platforms which don't have automatic updates yet.</p>\n<p><img src=\"https://user-images.githubusercontent.com/191335/42366393-01e5af58-813c-11e8-9529-3fd5b58b1ec4.png\" alt=\"image\" /></p>\n",
+      "major": false,
+      "created_at": "2018-07-10T07:20:24+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 495,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2963,
+      "github_url": "https://github.com/ppy/osu/pull/2963",
+      "url": null,
+      "type": "fix",
+      "category": "Online",
+      "title": "Fix links from profile top scores to beatmaps not working correctly",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T07:32:01+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 496,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2961,
+      "github_url": "https://github.com/ppy/osu/pull/2961",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Fix some typos and add common custom terms to R# dictionary",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T07:43:59+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 497,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2945,
+      "github_url": "https://github.com/ppy/osu/pull/2945",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix many discrepancies in main menu button display",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T08:18:53+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 498,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2986,
+      "github_url": "https://github.com/ppy/osu/pull/2986",
+      "url": null,
+      "type": "fix",
+      "category": "Gameplay",
+      "title": "Fix lack of fallback logic for custom bank samples",
+      "message_html": "<p>Was causing some beatmaps to not play all of their hitsounds</p>\n",
+      "major": false,
+      "created_at": "2018-07-10T08:37:02+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 500,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2988,
+      "github_url": "https://github.com/ppy/osu/pull/2988",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Update framework and other packages",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-10T12:02:34+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    }
+  ],
+  "versions": {
+    "next": {
+      "id": 4233,
+      "version": "2018.712.0",
+      "display_version": "2018.712.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-12T15:12:39+00:00",
+      "disqus_id": "build_b2018.712lazer",
+      "disqus_title": "Release Notes for b2018.712.0 (Lazer)",
+      "update_stream": {
+        "id": 7,
+        "name": "lazer",
+        "display_name": "Lazer"
+      }
+    },
+    "previous": {
+      "id": 4227,
+      "version": "2018.709.0",
+      "display_version": "2018.709.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-09T14:40:37+00:00",
+      "disqus_id": "build_b2018.709lazer",
+      "disqus_title": "Release Notes for b2018.709.0 (Lazer)",
+      "update_stream": {
+        "id": 7,
+        "name": "lazer",
+        "display_name": "Lazer"
+      }
+    }
+  }
+}
+    

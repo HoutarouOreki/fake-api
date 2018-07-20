@@ -1,0 +1,323 @@
+{
+  "id": 4233,
+  "version": "2018.712.0",
+  "display_version": "2018.712.0",
+  "users": 0,
+  "is_featured": false,
+  "created_at": "2018-07-12T15:12:39+00:00",
+  "disqus_id": "build_b2018.712lazer",
+  "disqus_title": "Release Notes for b2018.712.0 (Lazer)",
+  "update_stream": {
+    "id": 7,
+    "name": "lazer",
+    "display_name": "Lazer"
+  },
+  "changelog_entries": [
+    {
+      "id": 503,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1682,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1682",
+      "url": null,
+      "type": "fix",
+      "category": "Input",
+      "title": "Make PassThroughInputManager sync with parent input state",
+      "message_html": "<p>Fixes cases where gameplay input got out of sync with local input.</p>\n",
+      "major": false,
+      "created_at": "2018-07-11T06:37:40+00:00",
+      "github_user": {
+        "id": 26,
+        "display_name": "ekrctb",
+        "github_url": "https://github.com/ekrctb",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 504,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1701,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1701",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Fix incorrect intersection logic",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-11T07:36:59+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 505,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1685,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1685",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Don't inject local dependencies on self",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-11T07:44:11+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 506,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 2948,
+      "github_url": "https://github.com/ppy/osu/pull/2948",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Fix \"disable mouse buttons\" not working",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-11T09:04:45+00:00",
+      "github_user": {
+        "id": 26,
+        "display_name": "ekrctb",
+        "github_url": "https://github.com/ekrctb",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 507,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3005,
+      "github_url": "https://github.com/ppy/osu/pull/3005",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Turn cache back on for chocolatey packages",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-11T11:14:45+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 508,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3002,
+      "github_url": "https://github.com/ppy/osu/pull/3002",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Use zip distribution instead of dmg for mac builds",
+      "message_html": "<p>Avoiding disk images is preferred these days.</p>\n",
+      "major": false,
+      "created_at": "2018-07-11T12:14:23+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 512,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1707,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1707",
+      "url": null,
+      "type": "fix",
+      "category": "Misc",
+      "title": "Fix draw visualiser title bar ignoring drags in some cases",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-12T07:32:14+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 513,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3015,
+      "github_url": "https://github.com/ppy/osu/pull/3015",
+      "url": null,
+      "type": "fix",
+      "category": "Input",
+      "title": "Fix osu! logo handling non-left mouse buttons",
+      "message_html": "<p>Could potentially block user bindings such as &quot;Back&quot; when the logo was hovered.</p>\n",
+      "major": false,
+      "created_at": "2018-07-12T09:10:59+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 514,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1706,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1706",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix focus overlay focus",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-12T10:01:37+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 515,
+      "repository": "ppy/osu-framework",
+      "github_pull_request_id": 1708,
+      "github_url": "https://github.com/ppy/osu-framework/pull/1708",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix empty tooltips being shown incorrectly",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-12T10:13:33+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 517,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3001,
+      "github_url": "https://github.com/ppy/osu/pull/3001",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Fix key configuration row sometimes not expanding on click",
+      "message_html": null,
+      "major": false,
+      "created_at": "2018-07-12T11:16:29+00:00",
+      "github_user": {
+        "id": 26,
+        "display_name": "ekrctb",
+        "github_url": "https://github.com/ekrctb",
+        "osu_username": null,
+        "user_id": null,
+        "user_url": null
+      }
+    },
+    {
+      "id": 518,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3004,
+      "github_url": "https://github.com/ppy/osu/pull/3004",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Update disclaimer",
+      "message_html": "<p>The text on the old one didn't match the level of progress we have made (in terms of bug reporting status or professionalism).</p>\n",
+      "major": false,
+      "created_at": "2018-07-12T14:54:08+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    },
+    {
+      "id": 519,
+      "repository": "ppy/osu",
+      "github_pull_request_id": 3017,
+      "github_url": "https://github.com/ppy/osu/pull/3017",
+      "url": null,
+      "type": "fix",
+      "category": "UI",
+      "title": "Restore old tooltip appear delay behaviour",
+      "message_html": "<p>Tooltips should display faster if the tooltip is already partly visible. This regressed with the addition of custon <code>AppearDelay</code>.</p>\n",
+      "major": false,
+      "created_at": "2018-07-12T15:07:33+00:00",
+      "github_user": {
+        "id": 3,
+        "display_name": "peppy",
+        "github_url": "https://github.com/peppy",
+        "osu_username": "peppy",
+        "user_id": 2,
+        "user_url": "https://osu.ppy.sh/users/2"
+      }
+    }
+  ],
+  "versions": {
+    "next": {
+      "id": 4236,
+      "version": "2018.713.1",
+      "display_version": "2018.713.1",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-13T17:38:15+00:00",
+      "disqus_id": "build_b2018.713lazer",
+      "disqus_title": "Release Notes for b2018.713.1 (Lazer)",
+      "update_stream": {
+        "id": 7,
+        "name": "lazer",
+        "display_name": "Lazer"
+      }
+    },
+    "previous": {
+      "id": 4229,
+      "version": "2018.710.0",
+      "display_version": "2018.710.0",
+      "users": 0,
+      "is_featured": false,
+      "created_at": "2018-07-10T11:20:15+00:00",
+      "disqus_id": "build_b2018.710lazer",
+      "disqus_title": "Release Notes for b2018.710.0 (Lazer)",
+      "update_stream": {
+        "id": 7,
+        "name": "lazer",
+        "display_name": "Lazer"
+      }
+    }
+  }
+}
+    
