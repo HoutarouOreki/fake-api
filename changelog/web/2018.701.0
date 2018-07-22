@@ -1,0 +1,119 @@
+{
+	"id": 4221,
+	"version": "2018.701.0",
+	"display_version": "2018.701.0",
+	"users": 0,
+	"is_featured": false,
+	"created_at": "2018-07-01T10:25:07+00:00",
+	"disqus_id": "build_b2018.701web",
+	"disqus_title": "Release Notes for b2018.701.0 (Web)",
+	"update_stream": {
+		"id": 8,
+		"name": "web",
+		"display_name": "Web"
+	},
+	"changelog_entries": [
+		{
+			"id": 400,
+			"repository": "ppy\/osu-wiki",
+			"github_pull_request_id": 1494,
+			"github_url": "https:\/\/github.com\/ppy\/osu-wiki\/pull\/1494",
+			"url": null,
+			"type": "fix",
+			"category": "Wiki",
+			"title": "[CWC 2018] Reschedule for FR vs TW",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-29T01:55:47+00:00",
+			"github_user": {
+				"id": 20,
+				"display_name": "juankristal",
+				"github_url": "https:\/\/github.com\/juankristal",
+				"osu_username": null,
+				"user_id": null,
+				"user_url": null
+			}
+		},
+		{
+			"id": 402,
+			"repository": "ppy\/osu-wiki",
+			"github_pull_request_id": 1489,
+			"github_url": "https:\/\/github.com\/ppy\/osu-wiki\/pull\/1489",
+			"url": null,
+			"type": "fix",
+			"category": "Wiki",
+			"title": "[ATS 2018] Finals update",
+			"message_html": "<p>Add Finals update to ATS 2018:<\/p>\n<ul>\n<li>Schedules update<\/li>\n<li>Map pools update<\/li>\n<li>Previous stage results update<\/li>\n<\/ul>\n",
+			"major": false,
+			"created_at": "2018-06-29T05:51:43+00:00",
+			"github_user": {
+				"id": 31,
+				"display_name": "fajar13k",
+				"github_url": "https:\/\/github.com\/fajar13k",
+				"osu_username": null,
+				"user_id": null,
+				"user_url": null
+			}
+		},
+		{
+			"id": 405,
+			"repository": "ppy\/osu-web",
+			"github_pull_request_id": 3410,
+			"github_url": "https:\/\/github.com\/ppy\/osu-web\/pull\/3410",
+			"url": null,
+			"type": "fix",
+			"category": "Search",
+			"title": "Restore focus when loading new search results",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-29T08:39:47+00:00",
+			"github_user": {
+				"id": 1,
+				"display_name": "notbakaneko",
+				"github_url": "https:\/\/github.com\/notbakaneko",
+				"osu_username": "notbakaneko",
+				"user_id": 10751776,
+				"user_url": "https:\/\/osu.ppy.sh\/users\/10751776"
+			}
+		},
+		{
+			"id": 417,
+			"repository": "ppy\/osu-wiki",
+			"github_pull_request_id": 1495,
+			"github_url": "https:\/\/github.com\/ppy\/osu-wiki\/pull\/1495",
+			"url": null,
+			"type": "fix",
+			"category": "Wiki",
+			"title": "Upload CWC2018 Quarter Finals Recap",
+			"message_html": "<p>Authored by Dohland (https:\/\/osu.ppy.sh\/u\/5220511)\nCleanup, formatting and PR by JBHyperion<\/p>\n",
+			"major": false,
+			"created_at": "2018-06-30T00:52:28+00:00",
+			"github_user": {
+				"id": 41,
+				"display_name": "JBHyperion",
+				"github_url": "https:\/\/github.com\/JBHyperion",
+				"osu_username": null,
+				"user_id": null,
+				"user_url": null
+			}
+		}
+	],
+	"versions": {
+		"next": {
+			"id": 4222,
+			"version": "2018.702.0",
+			"display_version": "2018.702.0",
+			"users": 0,
+			"is_featured": false,
+			"created_at": "2018-07-02T07:04:05+00:00",
+			"disqus_id": "build_b2018.702web",
+			"disqus_title": "Release Notes for b2018.702.0 (Web)",
+			"update_stream": {
+				"id": 8,
+				"name": "web",
+				"display_name": "Web"
+			}
+		}
+	}
+}
+    

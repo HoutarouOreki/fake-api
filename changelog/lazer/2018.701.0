@@ -1,0 +1,266 @@
+{
+	"id": 4220,
+	"version": "2018.701.0",
+	"display_version": "2018.701.0",
+	"users": 0,
+	"is_featured": false,
+	"created_at": "2018-07-01T06:54:24+00:00",
+	"disqus_id": "build_b2018.701lazer",
+	"disqus_title": "Release Notes for b2018.701.0 (Lazer)",
+	"update_stream": {
+		"id": 7,
+		"name": "lazer",
+		"display_name": "Lazer"
+	},
+	"changelog_entries": [
+		{
+			"id": 381,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1636,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1636",
+			"url": null,
+			"type": "fix",
+			"category": "Framework",
+			"title": "Allow screens to be exited before they are completely loaded",
+			"message_html": "<p>Fixes crashes on rapidly changing between game screens.</p>\n",
+			"major": false,
+			"created_at": "2018-06-27T05:04:14+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 388,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1663,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1663",
+			"url": null,
+			"type": "fix",
+			"category": "Framework",
+			"title": "Fix null reference when calling AddText without default creation parameters present",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-28T02:39:31+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 392,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1651,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1651",
+			"url": null,
+			"type": "fix",
+			"category": "Framework",
+			"title": "Fix incorrect usage of null coalesce",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-28T08:36:08+00:00",
+			"github_user": {
+				"id": 7,
+				"display_name": "UselessToucan",
+				"github_url": "https://github.com/UselessToucan",
+				"osu_username": null,
+				"user_id": null,
+				"user_url": null
+			}
+		},
+		{
+			"id": 395,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1645,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1645",
+			"url": null,
+			"type": "fix",
+			"category": "Platform",
+			"title": "Add library loading and load libbass.so globally on linux",
+			"message_html": "<p>Fix beatmaps not playing on linux.</p>\n",
+			"major": false,
+			"created_at": "2018-06-28T10:14:59+00:00",
+			"github_user": {
+				"id": 59,
+				"display_name": "morguldir",
+				"github_url": "https://github.com/morguldir",
+				"osu_username": null,
+				"user_id": null,
+				"user_url": null
+			}
+		},
+		{
+			"id": 401,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1666,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1666",
+			"url": null,
+			"type": "fix",
+			"category": "Graphics",
+			"title": "Compute CircularContainer's corner radius as late as possible",
+			"message_html": "<p>Fixes random squares appearing instead of circles for 1 frame in various areas.</p>\n",
+			"major": false,
+			"created_at": "2018-06-29T03:06:45+00:00",
+			"github_user": {
+				"id": 5,
+				"display_name": "smoogipoo",
+				"github_url": "https://github.com/smoogipoo",
+				"osu_username": "smoogipoo",
+				"user_id": 1040328,
+				"user_url": "https://osu.ppy.sh/users/1040328"
+			}
+		},
+		{
+			"id": 408,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1656,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1656",
+			"url": null,
+			"type": "fix",
+			"category": "Input",
+			"title": "Expose the ability to kill focus of a textbox",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-29T09:40:45+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 410,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1654,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1654",
+			"url": null,
+			"type": "fix",
+			"category": "Input",
+			"title": "Remove escape handling logic from FocusedOverlayContainer",
+			"message_html": "<p>Allows for applications to decide how they close focused overlays.</p>\n",
+			"major": false,
+			"created_at": "2018-06-29T09:51:51+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 412,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1668,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1668",
+			"url": null,
+			"type": "fix",
+			"category": "Input",
+			"title": "Allow KeyBindingContainer actions to travel past PassThroughInputManagers",
+			"message_html": "<p>Allows for global actions to be handled within previous inaccessible locations, such as gameplay implementations.</p>\n",
+			"major": false,
+			"created_at": "2018-06-29T10:28:08+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 413,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1655,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1655",
+			"url": null,
+			"type": "fix",
+			"category": "Framework",
+			"title": "Add typed exceptions for various failures that can occur on Screen operations",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-29T10:37:50+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 414,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1657,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1657",
+			"url": null,
+			"type": "fix",
+			"category": "Input",
+			"title": "Decouple TextBox blocking behaviour from underlying text consumption",
+			"message_html": "<p>Fixes keys not always being blocked by text boxes, leading to unexpected UI actions.</p>\n",
+			"major": false,
+			"created_at": "2018-06-29T11:42:13+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		},
+		{
+			"id": 415,
+			"repository": "ppy/osu-framework",
+			"github_pull_request_id": 1659,
+			"github_url": "https://github.com/ppy/osu-framework/pull/1659",
+			"url": null,
+			"type": "fix",
+			"category": "Security",
+			"title": "Fix being able to seek to word boundaries in password fields",
+			"message_html": null,
+			"major": false,
+			"created_at": "2018-06-29T11:53:07+00:00",
+			"github_user": {
+				"id": 3,
+				"display_name": "peppy",
+				"github_url": "https://github.com/peppy",
+				"osu_username": "peppy",
+				"user_id": 2,
+				"user_url": "https://osu.ppy.sh/users/2"
+			}
+		}
+	],
+	"versions": {
+		"next": {
+			"id": 4223,
+			"version": "2018.702.0",
+			"display_version": "2018.702.0",
+			"users": 0,
+			"is_featured": false,
+			"created_at": "2018-07-02T12:36:35+00:00",
+			"disqus_id": "build_b2018.702lazer",
+			"disqus_title": "Release Notes for b2018.702.0 (Lazer)",
+			"update_stream": {
+				"id": 7,
+				"name": "lazer",
+				"display_name": "Lazer"
+			}
+		}
+	}
+}
+    
